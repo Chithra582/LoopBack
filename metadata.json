@@ -1,0 +1,6 @@
+{
+  "name": "Loopback - Live Decision Interrupt Assistant",
+  "description": "Voice-first, memory-backed agentic assistant listening for repeat decision traps, powered by Qdrant vector memory and a 3-agent Lyzr pipeline.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
